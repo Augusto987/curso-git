@@ -1,0 +1,7 @@
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\projeto-teste.exe.config
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\projeto-teste.exe
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\bin\Debug\projeto-teste.pdb
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\projeto-teste.csprojAssemblyReference.cache
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\projeto-teste.exe
+C:\Users\morin\OneDrive\Área de Trabalho\projeto-teste\obj\Debug\projeto-teste.pdb
